@@ -5,8 +5,8 @@ Please follow the [written guide](guides/SETUP.md) carefully.
 We have a set of alternative *video* guides, watch these **only** if you got stuck with the written
 guide:
 
-* [Windows](#) 
-* [Ubuntu](#) 
+* [Windows](https://web.microsoftstream.com/video/382a7600-3940-4415-a680-002de6960b99) 
+* [Ubuntu](https://web.microsoftstream.com/video/608b2c4c-1834-4429-9c86-bf19530c7f3a)
 
 ***
 
