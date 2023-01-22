@@ -5,8 +5,8 @@ Please follow the [written guide](guides/SETUP.md) carefully.
 We have a set of alternative *video* guides, watch these **only** if you got stuck with the written
 guide:
 
-* [Windows](https://mediasite.bris.ac.uk/Mediasite/Play/da355bec145b4c7fa2940738340a454a1d) **(Note this video mentions JAVA 11 - you need to use JAVA 17)**
-* [Ubuntu](https://mediasite.bris.ac.uk/Mediasite/Play/eb4047f525c642de8b4bef98c006c2c21d) **(Note this video mentions JAVA 11 - you need to use JAVA 17)**
+* [Windows](#) 
+* [Ubuntu](#) 
 
 ***
 
