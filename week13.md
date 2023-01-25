@@ -212,9 +212,8 @@ Windows Users:
 Download git bash and follow the steps
 
 Linux Users:
-type
-```
-cat ~/.ssh/id_ed25519.pub
+```sh
+> cat ~/.ssh/id_ed25519.pub
 ```
 Then go into GitHub under user settings go to `SSH and GPG keys`,
 Create a new key and paste the output from the terminal into the key field.
@@ -223,8 +222,8 @@ MacOS Users:
 
 Make sure you have [homebrew](https://brew.sh) installed and run `brew install gh`. After it has installed run: 
 
-```
-gh auth login
+```sh
+> gh auth login
 ```
 
 and follow the instructions to login. Select GitHub.com when asked where to authenticate. 
@@ -233,12 +232,12 @@ Accept the invitation, and you should be taken to the repository. Take note of t
 command at the top of the page, it should look like:
 
 Windows users:
-```
-    git clone https://github.com/THE_USERNAME_OF_THE_PERSON_WHO_CREATED_THE_REPO_AND_SHARED_IT_WITH_YOU/foo.git
+```sh
+> git clone https://github.com/THE_USERNAME_OF_THE_PERSON_WHO_CREATED_THE_REPO_AND_SHARED_IT_WITH_YOU/foo.git
 ```
 Linux and Mac users:
-```
-    git clone git@github.com:THE_USERNAME_OF_THE_PERSON_WHO_CREATED_THE_REPO_AND_SHARED_IT_WITH_YOU/foo.git
+```sh
+> git clone git@github.com:THE_USERNAME_OF_THE_PERSON_WHO_CREATED_THE_REPO_AND_SHARED_IT_WITH_YOU/foo.git
 ```
 Clone the repository with the command. When you are collaborating, each partner has a clone of the
 same online repo. You need to make sure you can both read from and write to it. Your workflow is
