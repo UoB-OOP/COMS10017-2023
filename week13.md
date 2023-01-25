@@ -250,7 +250,7 @@ now, roughly:
 # get the project back into a working (e.g compiling) state
 
 > git status  # see what's changed
-> git add X   # track new files
+> git add .   # track new files
 
 #  you may wish to edit .gitignore to ignore unwanted files at this point
 
