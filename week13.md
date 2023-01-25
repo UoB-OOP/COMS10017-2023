@@ -206,6 +206,29 @@ member's email as shown below.
 ![](bb_setup.png)  
 One you click _Invite a collaborator_, your partner should receive an email.
 
+If you have not set up a public key for GitHub follow these steps:
+
+Windows Users:
+Download git bash and follow the steps
+
+Linux Users:
+type
+```
+cat ~/.ssh/id_ed25519.pub
+```
+Then go into GitHub under user settings go to `SSH and GPG keys`,
+Create a new key and paste the output from the terminal into the key field.
+
+MacOS Users:
+
+Make sure you have [homebrew](https://brew.sh) installed and run `brew install gh`. After it has installed run: 
+
+```
+gh auth login
+```
+
+and follow the instructions to login. Select GitHub.com when asked where to authenticate. 
+
 Accept the invitation, and you should be taken to the repository. Take note of the repository clone
 command at the top of the page, it should look like:
 
