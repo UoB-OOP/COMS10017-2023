@@ -13,7 +13,13 @@ and [third-party resources](guides/RESOURCES.md).
 * [Week 14](week14.md) - *30 Jan*
 * [Week 15](week15.md) - *06 Feb*
 * [Week 16](week16.md) - *13 Feb*
-* [Week 17](week16.md) - *20 Feb*
+* [Week 17](week17.md) - *20 Feb*
+---
+
+**Summative assignment (100%)**:
+
+* Week 19 ~
+    * [The ScotlandYard project](summative/README.md)
 ---
 
 For specific topics, visit:
@@ -24,4 +30,3 @@ For specific topics, visit:
 * [Java](guides/JAVA.md) - quick reminder of Java language features
 * [IntelliJ](guides/INTELLIJ.md) - basic import guide for coursework projects using IntelliJ
 * [Maven](guides/MAVEN.md) - cheat sheet for maven
-
