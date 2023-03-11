@@ -37,7 +37,7 @@ See the task description page for each part to get started:
 * **IMPORTANT - you will need to use JAVA 17 for all operating systems** this was necessary due to use needing a single version of Java for the gameserver and M1 Macs requiring Java 17
 
 1. [cw-model](cw-model.md) - part 1 of the coursework, [JavaDocs](https://seis.bristol.ac.uk/~sh1670/SY/apidocs2022/index.html) 
-2. [cw-ai (NOT YET AVAILABLE)](#) - part 2 of the coursework, [JavaDocs](https://seis.bristol.ac.uk/~sh1670/SY/apidocs2022/index.html) 
+2. [cw-ai](cw-ai.md) - part 2 of the coursework, [JavaDocs](https://seis.bristol.ac.uk/~sh1670/SY/apidocs2022/index.html) 
 
 
 You may also want to read these:
